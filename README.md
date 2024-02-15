@@ -6,7 +6,9 @@
 
 📫 if you want to contact me, please send e-mail to dybroh@kaist.ac.kr
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Noverse0&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Noverse0&theme=blue-green)
+
+![Top a](https://github-readme-stats.vercel.app/api/top-langs/?username=Noverse0&theme=blue-green)
 
 <a href="www.linkedin.com/in/rohdy"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
 
