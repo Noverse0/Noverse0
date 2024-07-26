@@ -1,8 +1,8 @@
 👋 Hi, I’m Roh Daeyoung
 
-👀 I’m interested in ML enginner
+👀 I’m interested in ML/DL enginner
 
-🌱 I’m currently learning Graph Neural Network, Generative Model
+🌱 I’m currently learning Generative Model(Image & LLM)
 
 📫 if you want to contact me, please send e-mail to dybroh@gmail.com
 
