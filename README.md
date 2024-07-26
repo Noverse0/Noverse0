@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Graph Neural Network, Generative Model
 
-📫 if you want to contact me, please send e-mail to dybroh@kaist.ac.kr
+📫 if you want to contact me, please send e-mail to dybroh@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Noverse0&theme=blue-green)
 
